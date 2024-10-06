@@ -107,7 +107,7 @@ const RecentWorksDefault = () => {
 							<div className="image">
 								<a href="https://game-hub-gilt-kappa.vercel.app/" className="has-popup-image">
 								<Image
-      src="/images/works/project4.png"
+      src="/images/works/project4.webp"
       alt="Project 4"
       width={500}
       height={300}
@@ -138,7 +138,7 @@ const RecentWorksDefault = () => {
 									className="has-popup-image"
 								>
 								<Image
-      src="/images/works/project4.png"
+      src="/images/works/project4.webp"
       alt="Rick & Morty Project"
       width={500}
       height={300}
@@ -169,7 +169,7 @@ const RecentWorksDefault = () => {
 									className="has-popup-image"
 								>
 							  <Image
-      src="/images/works/project3.png"
+      src="/images/works/project3.webp"
       alt="Olx Clone Project"
       width={500}
       height={300}
@@ -200,7 +200,7 @@ const RecentWorksDefault = () => {
 									className="has-popup-image"
 								>
 								 <Image
-      src="/images/works/project2.png"
+      src="/images/works/project2.webp"
       alt="Hospital Management Project"
       width={500}
       height={300}
@@ -232,7 +232,7 @@ const RecentWorksDefault = () => {
 									className="has-popup-image"
 								>
 							   <Image
-      src="/images/works/project1.png"
+      src="/images/works/project1.webp"
       alt="Contact Management Project"
       width={500}
       height={300}
