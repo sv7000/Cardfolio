@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import Isotope from "isotope-layout";
+import Image from "next/image";
 import { Fragment, useEffect, useRef, useState } from "react";
 
 const RecentWorksDefault = () => {
@@ -105,7 +106,13 @@ const RecentWorksDefault = () => {
 						<div className="box-item">
 							<div className="image">
 								<a href="https://game-hub-gilt-kappa.vercel.app/" className="has-popup-image">
-									<img src="images/works/project5.png" alt="" />
+								<Image
+      src="/images/works/project4.png"
+      alt="Project 4"
+      width={500}
+      height={300}
+      layout="responsive"
+    />
 									<span className="info">
 										<span className="ion ion-code" />
 									</span>
@@ -130,7 +137,13 @@ const RecentWorksDefault = () => {
 									href="https://rickand-morty-six.vercel.app/"
 									className="has-popup-image"
 								>
-									<img src="images/works/project4.png" alt="" />
+								<Image
+      src="/images/works/project4.png"
+      alt="Rick & Morty Project"
+      width={500}
+      height={300}
+      layout="responsive"
+    />
 									<span className="info">
 										<span className="ion ion-code" />
 									</span>
@@ -155,7 +168,13 @@ const RecentWorksDefault = () => {
 									href="https://olx-clone-94my.onrender.com/"
 									className="has-popup-image"
 								>
-									<img src="images/works/project3.png" alt="" />
+							  <Image
+      src="/images/works/project3.png"
+      alt="Olx Clone Project"
+      width={500}
+      height={300}
+      layout="responsive"
+    />
 									<span className="info">
 										<span className="ion ion-code" />
 									</span>
@@ -180,7 +199,13 @@ const RecentWorksDefault = () => {
 									href="https://health-care-six-sooty.vercel.app/"
 									className="has-popup-image"
 								>
-									<img src="images/works/project2.png" alt="" />
+								 <Image
+      src="/images/works/project2.png"
+      alt="Hospital Management Project"
+      width={500}
+      height={300}
+      layout="responsive"
+    />
 									<span className="info">
 										<span className="ion ion-code" />
 									</span>
@@ -206,7 +231,13 @@ const RecentWorksDefault = () => {
 									href="https://health-care-six-sooty.vercel.app/"
 									className="has-popup-image"
 								>
-									<img src="images/works/project1.png" alt="" />
+							   <Image
+      src="/images/works/project1.png"
+      alt="Contact Management Project"
+      width={500}
+      height={300}
+      layout="responsive"
+    />
 									<span className="info">
 										<span className="ion ion-code" />
 									</span>
