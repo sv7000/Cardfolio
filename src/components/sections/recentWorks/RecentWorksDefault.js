@@ -127,7 +127,7 @@ const RecentWorksDefault = () => {
 						<div className="box-item">
 							<div className="image">
 								<a
-									href="https://unsplash-api-azure.vercel.app/"
+									href="https://rickand-morty-six.vercel.app/"
 									className="has-popup-image"
 								>
 									<img src="images/works/project4.png" alt="" />
@@ -138,7 +138,7 @@ const RecentWorksDefault = () => {
 							</div>
 							<div className="desc p-4">
 								<a
-									href="https://www.github.com/codelikeagirl29/unsplash-api"
+									href="https://rickand-morty-six.vercel.app/"
 									className="name has-popup-image"
 								>
 									Rick & Morty
@@ -163,7 +163,7 @@ const RecentWorksDefault = () => {
 							</div>
 							<div className="desc m-4">
 								<a
-									href="https://github.com/codelikeagirl29/gitprofile"
+									href="https://olx-clone-94my.onrender.com/"
 									className="name has-popup"
 								>
 									Olx Clone
@@ -188,7 +188,7 @@ const RecentWorksDefault = () => {
 							</div>
 							<div className="desc m-4">
 								<a
-									href="https://github.com/codelikeagirl29/gitprofile"
+									href="https://health-care-six-sooty.vercel.app/"
 									className="name has-popup"
 								>
 									Hospital Management
@@ -214,7 +214,7 @@ const RecentWorksDefault = () => {
 							</div>
 							<div className="desc m-4">
 								<a
-									href="https://github.com/codelikeagirl29/gitprofile"
+									href="https://health-care-six-sooty.vercel.app/"
 									className="name has-popup"
 								>
 									Contact Management
