@@ -107,7 +107,7 @@ const RecentWorksDefault = () => {
 							<div className="image">
 								<a href="https://game-hub-gilt-kappa.vercel.app/" className="has-popup-image">
 								<Image
-      src="/images/works/project4.webp"
+      src="/images/works/project5.webp"
       alt="Project 4"
       width={500}
       height={300}
