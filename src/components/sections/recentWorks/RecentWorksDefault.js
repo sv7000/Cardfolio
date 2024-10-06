@@ -113,7 +113,7 @@ const RecentWorksDefault = () => {
 							</div>
 							<div className="desc m-4">
 								<a
-									href="images/works/work1.webp"
+									href="https://game-hub-gilt-kappa.vercel.app/"
 									className="name has-popup-image"
 								>
 									VidGame
